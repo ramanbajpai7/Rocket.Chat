@@ -12,7 +12,7 @@
       "description": "Please re-enter your App Name from the top.",
       "required": true
     },
-    "DEPLOY_PLATFORM": "heroku"
+    "DEPLOY_PLATFORM": "herok"
   },
   "addons": [
     "mongolab",
